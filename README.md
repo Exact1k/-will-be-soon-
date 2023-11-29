@@ -1,3 +1,3 @@
-# -will-be-soon-
+# MyNewRepo
 hello
 hi
